@@ -1,0 +1,5 @@
+Task 4
+Prepare a dataset of laptops(including second hand laptops also) having price less than or equal to Rs. 20000. In the dataset. 
+Include all necessary feature required for a laptop
+Collect the data by doing webscraping of different websites  
+Prepare a dashboard corresponding to the dataset made and find insights.

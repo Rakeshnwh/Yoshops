@@ -1,0 +1,10 @@
+Task 8
+Make a dataset including all colleges and higher secondary schools in Aurangabad , Maharashtra. 
+Include  the courses offered, website link, number of students, contact details, address etc as columns
+Do analysis of the dataset formed
+
+
+
+https://www.indcareer.com/find/all-colleges-in-aurangabad
+
+https://school.careers360.com/schools/schools-in-aurangabad?state=15
